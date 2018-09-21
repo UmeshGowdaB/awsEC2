@@ -23,7 +23,7 @@ public class App
     	        // Your accesskey and secretkey
     	        AWS_CREDENTIALS = new BasicAWSCredentials(
     	                "AKIAXSP7KE2NUBBQA5UP",
-    	                "uXSJrZ28yR+dcZ/448rj5yercyWeNTUuK2kQ4i9J"
+    	                "uXSJrZ28yR+dcZ/j5yercyWeNTUuK2kQ4i9J"
     	        );
     	
     	// Set up the amazon ec2 client
